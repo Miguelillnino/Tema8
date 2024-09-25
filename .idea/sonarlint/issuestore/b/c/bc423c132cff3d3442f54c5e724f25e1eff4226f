@@ -1,0 +1,18 @@
+
+c
+java:S1192I"FDefine a constant instead of duplicating this literal "Error" 3 times.(äµýþ8¥×¶Œ»1
+g
+java:S1659"EDeclare "txtTitle" and all following declarations on a separate line.(¾»Ëžùÿÿÿÿ8Õ×¶Œ»1
+X	java:S125*"<This block of commented-out lines of code should be removed.(Ëòçš8Ý×¶Œ»1
+j	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÂ¹•8Ý×¶Œ»1
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ8Þ×¶Œ»1
+V
+java:S1161L":Add the "@Override" annotation above this method signature(¯¸G8ä×¶Œ»1
+V
+java:S1161h":Add the "@Override" annotation above this method signature(¯¸G8ë×¶Œ»1
+I
+java:S1144="-Remove this unused private "enviarWs" method.(·ø"8÷×¶Œ»1
+N
+java:S1144X"1Remove this unused private "actualizarWs" method.(«ñäí8‡Ø¶Œ»1
+L
+java:S1144u"/Remove this unused private "eliminarWs" method.(ªâë8—Ø¶Œ»1
